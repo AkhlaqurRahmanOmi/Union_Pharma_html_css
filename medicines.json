@@ -1,0 +1,514 @@
+[
+ {
+  "ID": 1,
+  "Brand Name": "Adol",
+  "Generic Name": "Paracetamol",
+  "Strength": "120 mg\/5 ml",
+  "Dosage Description": "Suspension",
+  "Therapeutic Class": "Analgesics and Antipyretics"
+ },
+ {
+  "ID": 2,
+  "Brand Name": "Adol",
+  "Generic Name": "Paracetamol",
+  "Strength": "500 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Analgesics and Antipyretics"
+ },
+ {
+  "ID": 3,
+  "Brand Name": "Adol   PLUS",
+  "Generic Name": "Caffeine + Paracetamol",
+  "Strength": "65 mg + 500 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Analgesics and Antipyretics"
+ },
+ {
+  "ID": 4,
+  "Brand Name": "Unicid",
+  "Generic Name": "Aluminium Oxide + Magnesium Hydroxide",
+  "Strength": "175 mg + 225 mg\/5 ml",
+  "Dosage Description": "Suspension",
+  "Therapeutic Class": "Antacid, Adsorbent"
+ },
+ {
+  "ID": 5,
+  "Brand Name": "Unimag",
+  "Generic Name": "Magnesium Hydroxide",
+  "Strength": "400 mg\/5 ml",
+  "Dosage Description": "Suspension",
+  "Therapeutic Class": "Antacid, Adsorbent"
+ },
+ {
+  "ID": 6,
+  "Brand Name": "Unizole  DS  400",
+  "Generic Name": "Albendazole",
+  "Strength": "400 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Anthelmintics including schistosomiasis and filaricides"
+ },
+ {
+  "ID": 7,
+  "Brand Name": "Uride    850",
+  "Generic Name": "Metformin Hydrochloride",
+  "Strength": "850 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antidiabetes"
+ },
+ {
+  "ID": 8,
+  "Brand Name": "Uzone    15",
+  "Generic Name": "Pioglitazone",
+  "Strength": "15 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antidiabetes"
+ },
+ {
+  "ID": 9,
+  "Brand Name": "Uzide    80",
+  "Generic Name": "Gliclazide",
+  "Strength": "80 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antidiabetes"
+ },
+ {
+  "ID": 10,
+  "Brand Name": "Umodin",
+  "Generic Name": "Domperidone",
+  "Strength": "10 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antiemetic"
+ },
+ {
+  "ID": 11,
+  "Brand Name": "Unargan",
+  "Generic Name": "Promethazine Hydrochloride",
+  "Strength": "5 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Antihistamine"
+ },
+ {
+  "ID": 12,
+  "Brand Name": "Uzin",
+  "Generic Name": "Cetirizine Dihydrochloride",
+  "Strength": "5 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Antihistamine"
+ },
+ {
+  "ID": 13,
+  "Brand Name": "Uzin    10",
+  "Generic Name": "Cetirizine Dihydrochloride",
+  "Strength": "10 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antihistamine"
+ },
+ {
+  "ID": 14,
+  "Brand Name": "Ucard    5",
+  "Generic Name": "Amlodipine",
+  "Strength": "5 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antihypertensive"
+ },
+ {
+  "ID": 15,
+  "Brand Name": "Usapa    25",
+  "Generic Name": "Losartan Potassium",
+  "Strength": "25 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antihypertensive"
+ },
+ {
+  "ID": 16,
+  "Brand Name": "Usapa    50",
+  "Generic Name": "Losartan Potassium",
+  "Strength": "50 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antihypertensive"
+ },
+ {
+  "ID": 17,
+  "Brand Name": "Ucard Plus",
+  "Generic Name": "Amlodipine + Atenolol",
+  "Strength": "5 mg + 50 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antihypertensive"
+ },
+ {
+  "ID": 18,
+  "Brand Name": "U Flu    500",
+  "Generic Name": "Flucloxacillin",
+  "Strength": "500 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 19,
+  "Brand Name": "Umox    500",
+  "Generic Name": "Amoxicillin",
+  "Strength": "500 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 20,
+  "Brand Name": "Umox",
+  "Generic Name": "Amoxicillin",
+  "Strength": "125 mg\/5 ml",
+  "Dosage Description": "Powder For Suspension",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 21,
+  "Brand Name": "Ucep    250",
+  "Generic Name": "Cephalexin",
+  "Strength": "250 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 22,
+  "Brand Name": "Unicem",
+  "Generic Name": "Sulphamethoxazole + Trimethoprim",
+  "Strength": "200 mg + 40 mg\/5 ml",
+  "Dosage Description": "Suspension",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 23,
+  "Brand Name": "Unicem",
+  "Generic Name": "Sulphamethoxazole + Trimethoprim",
+  "Strength": "800 mg + 160 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 24,
+  "Brand Name": "Uprocin    500",
+  "Generic Name": "Ciprofloxacin",
+  "Strength": "500 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 25,
+  "Brand Name": "Umox 250   250",
+  "Generic Name": "Amoxicillin",
+  "Strength": "250 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 26,
+  "Brand Name": "Teriflox    500",
+  "Generic Name": "Levofloxacin",
+  "Strength": "500 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 27,
+  "Brand Name": "Dolin    100",
+  "Generic Name": "Doxycycline",
+  "Strength": "100 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 28,
+  "Brand Name": "Masil    200",
+  "Generic Name": "Cefixime",
+  "Strength": "200 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 29,
+  "Brand Name": "Uflu    250",
+  "Generic Name": "Flucloxacillin",
+  "Strength": "250 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 30,
+  "Brand Name": "Umox",
+  "Generic Name": "Amoxicillin",
+  "Strength": "125 mg\/1.25 ml",
+  "Dosage Description": "Paediatric Drops",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 31,
+  "Brand Name": "Urodin    250",
+  "Generic Name": "Cephradine",
+  "Strength": "250 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 32,
+  "Brand Name": "Urodin    500",
+  "Generic Name": "Cephradine",
+  "Strength": "500 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 33,
+  "Brand Name": "Urodin",
+  "Generic Name": "Cephradine",
+  "Strength": "125 mg\/1.25 ml",
+  "Dosage Description": "Paediatric Drops",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 34,
+  "Brand Name": "Urodin",
+  "Generic Name": "Cephradine",
+  "Strength": "125 mg\/5 ml",
+  "Dosage Description": "Powder For Suspension",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 35,
+  "Brand Name": "UTC    500",
+  "Generic Name": "Tetracycline Hydrochloride",
+  "Strength": "500 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Anti-infective"
+ },
+ {
+  "ID": 36,
+  "Brand Name": "Clop-AS",
+  "Generic Name": "Aspirin + Clopidogrel",
+  "Strength": "75 mg + 75 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antiplatelete"
+ },
+ {
+  "ID": 37,
+  "Brand Name": "Umet    400",
+  "Generic Name": "Metronidazole",
+  "Strength": "400 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antiprotozoal"
+ },
+ {
+  "ID": 38,
+  "Brand Name": "Umet",
+  "Generic Name": "Metronidazole",
+  "Strength": "200 mg\/5 ml",
+  "Dosage Description": "Suspension",
+  "Therapeutic Class": "Antiprotozoal"
+ },
+ {
+  "ID": 39,
+  "Brand Name": "Ubro",
+  "Generic Name": "Bromhexine Hydrochloride",
+  "Strength": "4 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Antitussives, Expectorants and Mucolytic"
+ },
+ {
+  "ID": 40,
+  "Brand Name": "Amb",
+  "Generic Name": "Ambroxol",
+  "Strength": "30 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Antitussives, Expectorants and Mucolytic"
+ },
+ {
+  "ID": 41,
+  "Brand Name": "Dextromethorphan",
+  "Generic Name": "Dextromethorphan Hydrobromide",
+  "Strength": "10 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Antitussives, Expectorants and Mucolytic"
+ },
+ {
+  "ID": 42,
+  "Brand Name": "Leobutol",
+  "Generic Name": "Levosalbutamol",
+  "Strength": "1 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Drug used in Brinchail Asthma, Chronic obstructive pulmonary diseases (COPD)"
+ },
+ {
+  "ID": 43,
+  "Brand Name": "Leobutol    2",
+  "Generic Name": "Levosalbutamol",
+  "Strength": "2 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Drug used in Brinchail Asthma, Chronic obstructive pulmonary diseases (COPD)"
+ },
+ {
+  "ID": 44,
+  "Brand Name": "Salbulin",
+  "Generic Name": "Salbutamol",
+  "Strength": "2 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Drug used in Brinchail Asthma, Chronic obstructive pulmonary diseases (COPD)"
+ },
+ {
+  "ID": 45,
+  "Brand Name": "Feglobin",
+  "Generic Name": "Ferrous Sulphate",
+  "Strength": "200 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Drug used in Anemia and other blood disorder"
+ },
+ {
+  "ID": 46,
+  "Brand Name": "Latul",
+  "Generic Name": "Lactulose",
+  "Strength": "68 %",
+  "Dosage Description": "Oral Solution",
+  "Therapeutic Class": "Laxatives"
+ },
+ {
+  "ID": 47,
+  "Brand Name": "Cal Lactate",
+  "Generic Name": "Calcium Lactate",
+  "Strength": "300 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Metals, Salts, Minerals and Calcium Preparation"
+ },
+ {
+  "ID": 48,
+  "Brand Name": "Unate    500",
+  "Generic Name": "Calcium Carbonate",
+  "Strength": "1250 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Metals, Salts, Minerals and Calcium Preparation"
+ },
+ {
+  "ID": 49,
+  "Brand Name": "Uzu    4.05mg\/5ml",
+  "Generic Name": "Zinc",
+  "Strength": "4.05 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Metals, Salts, Minerals and Calcium Preparation"
+ },
+ {
+  "ID": 50,
+  "Brand Name": "Unate-D",
+  "Generic Name": "Calcium + Vitamin D3",
+  "Strength": "500 mg + 200 IU",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Metals, Salts, Minerals and Calcium Preparation"
+ },
+ {
+  "ID": 51,
+  "Brand Name": "U Fenac    50",
+  "Generic Name": "Diclofenac Sodium",
+  "Strength": "50 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Nonsteroidal antiinflamatory and drugs used in arthritis"
+ },
+ {
+  "ID": 52,
+  "Brand Name": "U Methacin",
+  "Generic Name": "Indomethacin",
+  "Strength": "25 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Nonsteroidal antiinflamatory and drugs used in arthritis"
+ },
+ {
+  "ID": 53,
+  "Brand Name": "Fenexi    400",
+  "Generic Name": "Dexibuprofen (S Ibuprofen)",
+  "Strength": "400 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Nonsteroidal antiinflamatory and drugs used in arthritis"
+ },
+ {
+  "ID": 54,
+  "Brand Name": "UAC",
+  "Generic Name": "Aceclofenac",
+  "Strength": "100 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Nonsteroidal antiinflamatory and drugs used in arthritis"
+ },
+ {
+  "ID": 55,
+  "Brand Name": "Ufenac  TR  100",
+  "Generic Name": "Diclofenac Sodium",
+  "Strength": "100 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Nonsteroidal antiinflamatory and drugs used in arthritis"
+ },
+ {
+  "ID": 56,
+  "Brand Name": "Tase    20",
+  "Generic Name": "Omeprazole",
+  "Strength": "20 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Proton Pump inhibitor"
+ },
+ {
+  "ID": 57,
+  "Brand Name": "Ulan    30",
+  "Generic Name": "Lansoprazole",
+  "Strength": "30 mg",
+  "Dosage Description": "Capsule",
+  "Therapeutic Class": "Proton Pump inhibitor"
+ },
+ {
+  "ID": 58,
+  "Brand Name": "Joly",
+  "Generic Name": "Cetrimide + Chlorhexidine Hydrochloride",
+  "Strength": "500 mg + 100 mg\/100 gm",
+  "Dosage Description": "Cream",
+  "Therapeutic Class": "Skin and Mucous Membrane Preparations"
+ },
+ {
+  "ID": 59,
+  "Brand Name": "Union's Whit Field",
+  "Generic Name": "Benzoic Acid + Salicylic Acid",
+  "Strength": "60 mg + 30 mg\/gm",
+  "Dosage Description": "Ointment",
+  "Therapeutic Class": "Skin and Mucous Membrane Preparations"
+ },
+ {
+  "ID": 60,
+  "Brand Name": "Uvit M",
+  "Generic Name": "Ascorbic Acid + Calcium Pantothenate + Cupric Sulphate + Cyanocobalamin + Ferrous Sulphate + Folic Acid + Manganese Sulphate + Nicotinamide + Potassium Iodide + Potassium Sulphate + Pyridoxine Hydrochloride + Riboflavin + Vitamin A + Vitamin B1 + Vitamin D + Vitamin E + Zinc Sulphate",
+  "Strength": "60 mg + 10.92 mg + 2 mg + 6 mcg + 50 mg + 400 mcg + 1 mg + 20 mg + 196 mcg + 11.141 mg + 2 mg + 1.7 mg + 1.5 mg + 1.5 mg + 10 mcg + 15 IU + 41.16 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "Vitamins and Combinations"
+ },
+ {
+  "ID": 61,
+  "Brand Name": "Uvit    PLUS",
+  "Generic Name": "Iron + Nicotinamide + Pyridoxine Hydrochloride + Riboflavin + Vitamin B1 + Zinc",
+  "Strength": "50 mg + 20 mg + 2 mg + 2 mg + 5 mg + 10 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "Vitamins and Combinations"
+ },
+ {
+  "ID": 62,
+  "Brand Name": "Uvit E   200",
+  "Generic Name": "Vitamin E",
+  "Strength": "200 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "vitamins and Combinations"
+ },
+ {
+  "ID": 63,
+  "Brand Name": "Neutos",
+  "Generic Name": "Cyanocobalamin + Pyridoxine Hydrochloride + Vitamin B1",
+  "Strength": "200 mcg + 200 mg + 100 mg",
+  "Dosage Description": "Tablet",
+  "Therapeutic Class": "vitamins and Combinations"
+ },
+ {
+  "ID": 64,
+  "Brand Name": "Uvit",
+  "Generic Name": "Nicotinamide + Pyridoxine Hydrochloride + Riboflavin + Vitamin B1",
+  "Strength": "20 mg + 2 mg + 2 mg + 5 mg\/5 ml",
+  "Dosage Description": "Syrup",
+  "Therapeutic Class": "vitamins and Combinations"
+ }
+]
