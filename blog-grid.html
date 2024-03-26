@@ -34,6 +34,38 @@
     <!-- custom css -->
     <link href="css/custom.css" rel="stylesheet">
 
+    <style>
+        .form-select {
+            /* Add your styles here */
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            width: 200px;
+            font-size: 16px;
+            background-color: #fff;
+        }
+
+        /* Style for selected option */
+        .form-select option:checked {
+            background-color: #007bff;
+            color: #fff;
+        }
+
+        /* Style for dropdown arrow */
+        .form-select::-ms-expand {
+            display: none;
+        }
+
+        .form-select::after {
+            content: '\25BC';
+            position: absolute;
+            top: 50%;
+            right: 10px;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -307,11 +339,19 @@
         <!-- BLOG GRID
         ================================================== -->
         <section>
-            <div class="container">
-                <div class="filter">
-                    <label for="genericSelect">Select Generic Name:</label>
-                    <select id="genericSelect">
-                        <option value="">All</option>
+            <div class="horizontaltab tab-style1 position-relative z-index-9">
+                <ul class="resp-tabs-list hor_1">
+                    <li><a href="blog-grid.html">Why Choose Us</a></li>
+                    <li>Our Vision</li>
+                    <li>Our Mission</li>
+                </ul>
+            </div>
+            <div class="container" style="margin-top: 10px;padding: 10px;">
+                <div class="filter" style="display: flex;">
+                    <label for="genericSelect" class="">Select Generic Name:</label>
+                    <select id="genericSelect" class="form-select::-ms-expand form-select::after"
+                        style="max-width: 30%; height: auto;">
+                        <option value="" class="form-select option:checked">All</option>
                     </select>
                     <label for="therapeuticSelect">Select Therapeutic Class:</label>
                     <select id="therapeuticSelect">

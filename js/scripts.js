@@ -19,7 +19,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     <p>Strength: ${medicine.Strength}</p>
                     <p>Dosage Description: ${medicine["Dosage Description"]}</p>
                     <p>Therapeutic Class: ${medicine["Therapeutic Class"]}</p>
-                    <a href="#">View Details</a>
                 </div>
             </div>
         `;
